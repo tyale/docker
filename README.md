@@ -71,7 +71,7 @@ completely portable, and are designed from the ground up with an
 application-centric design.
 
 Perhaps best of all, because Docker operates at the OS level, it can still be
-run inside a VM!
+run inside a VM!  
 
 ## Plays well with others
 
